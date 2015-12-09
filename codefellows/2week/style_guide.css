@@ -1,0 +1,29 @@
+
+nav{
+
+  font-size: 16px;
+  font-family: 'Century Gothic', Century , Arial, sans-serif;
+}
+
+body {
+	background-color: #f2f2f2;
+	font-family: 'Century Gothic', Century , Arial, sans-serif;
+	font-size: 14px;
+	color: #333333;
+}
+
+h1{
+  font-family: 'Noteworthy', Arial, Century, sans-serif;
+  color: #e96565;
+  font-size: 32px;
+}
+
+p {
+  font-family: 'Century Gothic', Century , Arial, sans-serif;
+  font-size: 12px;
+  color: #333333;
+}
+
+legend{
+  font-size: 14px;
+}

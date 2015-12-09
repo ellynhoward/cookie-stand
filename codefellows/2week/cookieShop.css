@@ -1,0 +1,62 @@
+
+
+nav{
+  position: relative;
+  text-align: center;
+  font-size: 16px;
+  padding: 0px 10px 10px 10px;
+}
+
+body {
+	background-color: #f2f2f2;
+	font-family: 'Century Gothic', Century , Arial, sans-serif;
+	font-size: 14px;
+	color: #333333;
+}
+
+h1{
+  font-family: 'Noteworthy', Arial, Century, sans-serif;
+  min-height: 0px;
+  text-align: center;
+  border-radius: 5px;
+  padding: 0, 100, 0, 200px;
+  color: #e96565;
+  font-size: 42px;
+}
+
+p {
+  font-family: 'Century Gothic', Century , Arial, sans-serif;
+  padding: 0px 300px 0px 300px;
+  text-align: center;
+  font-size: 12px;
+  color: #333333;
+}
+
+legend{
+  font-size: 14px;
+}
+
+fieldset {
+  max-width: 700px;
+  position:relative;
+	left:210px;
+  margin: 10px;
+  padding: 5px 1px 5px 3px;
+  background-color: #e96565;
+  text-align: center;
+  border: 1px #ca8484 ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ca8484;
+}
+
+img {
+	display: inline-block;
+  position: relative;
+	align-items: center;
+	margin: 30px 20px 40px 0;
+	overflow: hidden;
+  width: 380px;
+  display: block;
+   margin-left: auto;
+   margin-right: auto
+}
